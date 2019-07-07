@@ -3,8 +3,6 @@ This code is to look for points inside some geographical zone in California. I u
 
 **Table of Contents**
 
-[TOCM]
-
 [TOC]
 
 ## Description
@@ -32,3 +30,5 @@ I mean, imagine that you are calling with a new possible client and you get the 
 ## Modelig in Machine Learning
 I used the library SciKit Learn to create a function that create the clusters
 - K-Means clustering
+
+
