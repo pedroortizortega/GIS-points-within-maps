@@ -3,9 +3,6 @@
 
 This code is to look for points inside some geographical zone in California. I used  a clusterin machine learning algorimth to classify the nearest neighbors in distance, obtain a cluster. And, from the center of the cluster make masure the travel time. With this flag I can obtain an approcimation of the time between points and said a range of time to travel between one point to another.
 
-**Table of Contents**
-
-"[TOC]"
 
 ## Description
 ###  GeoPandasProcess file
